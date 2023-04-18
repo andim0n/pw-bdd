@@ -82,3 +82,6 @@ dist/
 *.swo
 *.swn
 *.bak
+/test-results/
+/playwright-report/
+/playwright/.cache/

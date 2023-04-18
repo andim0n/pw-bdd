@@ -1,0 +1,20 @@
+{
+  "name": "playwright-bdd",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.godeltech.com:a.piatrou1/playwright-bdd.git"
+  },
+  "keywords": [],
+  "author": "a.piatrou@godeltech.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.1.0",
+    "@playwright/test": "^1.32.1"
+  }
+}
